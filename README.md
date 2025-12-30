@@ -64,8 +64,10 @@ jupyter notebook Task_3_CODEALPHA.ipynb
 
 ```
 HousePricePrediction/
-├── Task_3_CODEALPHA.ipynb
-├── dataset.csv
+├── data/
+│   └── house_prices.csv
+├── notebooks/
+│   └── house_price_prediction_ml.ipynb
 ├── README.md
 └── requirements.txt
 ```
