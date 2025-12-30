@@ -52,27 +52,24 @@ The dataset includes housing data with features like:
    cd HousePricePrediction
 Install required libraries:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 Launch the notebook:
 
-bash
-Copy
-Edit
 jupyter notebook Task_3_CODEALPHA.ipynb
+
+---
+
 📌 Project Structure
-Copy
-Edit
+
+```
 HousePricePrediction/
 ├── Task_3_CODEALPHA.ipynb
 ├── dataset.csv
 ├── README.md
 └── requirements.txt
+```
 
 👤 Author
 Krantikumar Patil
 📧 krantikumar4211@gmail.com
-🔗 GitHub
-🔗 LinkedIn
